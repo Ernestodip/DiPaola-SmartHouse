@@ -8,4 +8,4 @@
 
 **La Paleta de Colores que se usaran son: `#3F6B70`, `#D0EFF2`, `#87E6F0`, `#606F70` , `#69B4BD`**
 
-!(https://drive.google.com/drive/u/0/my-drive)
+!(https://www.facebook.com/photo?fbid=421204046779242&set=a.421204016779245)
