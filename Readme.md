@@ -8,4 +8,6 @@
 
 **La Paleta de Colores que se usaran son: `#3F6B70`, `#D0EFF2`, `#87E6F0`, `#606F70` , `#69B4BD`**
 
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
 [![1f8c39d5-33d3-4095-8a0a-959215989a94-200x200.png](https://i.postimg.cc/zf6HGtJD/1f8c39d5-33d3-4095-8a0a-959215989a94-200x200.png)](https://postimg.cc/mc3gdSzK)
