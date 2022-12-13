@@ -8,7 +8,7 @@
 
 **La Paleta de Colores que se usara es : `#042940`, `#005C53`, `#9FC131`, `#DBF227` , `#D6D58E`**
 
-[![Adobe-Color-Green-Globe-On-Moss-Environmental-Concept.jpg](https://i.postimg.cc/90MfPyXg/Adobe-Color-Green-Globe-On-Moss-Environmental-Concept.jpg)](https://postimg.cc/N93YB9HR)
+[![Captura-de-pantalla-176.png](https://i.postimg.cc/Qtcz6zCH/Captura-de-pantalla-176.png)](https://postimg.cc/R6VGhXcB)
 
 
 [![1f8c39d5-33d3-4095-8a0a-959215989a94-200x200.png](https://i.postimg.cc/zf6HGtJD/1f8c39d5-33d3-4095-8a0a-959215989a94-200x200.png)](https://postimg.cc/mc3gdSzK)
