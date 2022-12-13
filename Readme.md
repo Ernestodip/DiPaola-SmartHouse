@@ -18,6 +18,6 @@
 
 [![Captura-de-pantalla-176.png](https://i.postimg.cc/Qtcz6zCH/Captura-de-pantalla-176.png)](https://postimg.cc/R6VGhXcB)
 
-## Logotipo
+## Logotipo 
 
 [![1f8c39d5-33d3-4095-8a0a-959215989a94-200x200.png](https://i.postimg.cc/zf6HGtJD/1f8c39d5-33d3-4095-8a0a-959215989a94-200x200.png)](https://postimg.cc/mc3gdSzK)
