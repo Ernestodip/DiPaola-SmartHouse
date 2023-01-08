@@ -24,6 +24,6 @@
 
 ## Link Figma
 
-[Figma][def]
+[Figma SmartHouse][def]
 
 [def]: https://www.figma.com/file/ruiAEoWFZIzdvxsRmTipiS/SMART-HOUSE?node-id=0%3A1&t=EeXTXbb1Y2t3U54g-0
