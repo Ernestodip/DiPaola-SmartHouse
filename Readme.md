@@ -21,3 +21,7 @@
 ## Logotipo 
 
 [![1f8c39d5-33d3-4095-8a0a-959215989a94-200x200.png](https://i.postimg.cc/zf6HGtJD/1f8c39d5-33d3-4095-8a0a-959215989a94-200x200.png)](https://postimg.cc/mc3gdSzK)
+
+## Link Figma
+
+**This site was built using [Figma](https://www.figma.com/file/ruiAEoWFZIzdvxsRmTipiS/SMART-HOUSE?node-id=0%3A1&t=EeXTXbb1Y2t3U54g-0).**
