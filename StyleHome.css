@@ -1,0 +1,35 @@
+@import url("https://fonts.google.com/specimen/Open+Sans?preview.text=open%20sans&preview.text_type=custom&vfonly=true");
+
+*{ margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "OpenSans";
+}
+
+body {
+    background-color: #D6D58E;
+    color:#042940;
+    display: inline;}
+header { 
+    background-color: #042940;
+    color: #DBF227;
+}
+div img { 
+    height: 20%;
+    width: 30%;
+}
+ul img{
+    height: 20%;
+    width: 20%;
+}
+footer { 
+    background-color:#DBF227;
+    color:#042940;
+    }
+.footer img { 
+    height: 10%;
+    width: 10%;}
+:root{
+    --primary: Dred;
+    --secondary: D#ff46;
+    }
