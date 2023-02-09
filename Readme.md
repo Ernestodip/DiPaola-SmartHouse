@@ -14,9 +14,9 @@
 
 ## Paleta de Colores 
 
-**La Paleta de Colores que se usara es : `#042940`, `#005C53`, `#9FC131`, `#DBF227` , `#D6D58E`**
+**La Paleta de Colores que se usara es : `#F2F211`, `#D9D9D9`, `#595959`, `#262626` , `#0D0D0D`**
 
-[![Captura-de-pantalla-176.png](https://i.postimg.cc/Qtcz6zCH/Captura-de-pantalla-176.png)](https://postimg.cc/R6VGhXcB)
+[![Captura-de-pantalla-197.png](https://i.postimg.cc/Jn7Ngs0y/Captura-de-pantalla-197.png)](https://postimg.cc/5HGQQNw1)
 
 ## Logotipo 
 
