@@ -10,7 +10,7 @@
 
 ## Tipografia
 
-**Se usara es Open Sans en el E-commerce** 
+**Se usara Roboto-Mono en el E-commerce** 
 
 ## Paleta de Colores 
 
