@@ -32,6 +32,11 @@
 }
 a {color: #F2F211;}
 
+.registro { display: flex;
+    padding: 10px;
+    gap: 10px;
+    }
+
 .cuerpo { background-color: #595959;}
 
 .section1 {
