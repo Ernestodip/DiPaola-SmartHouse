@@ -122,3 +122,7 @@ padding: 20px; }
 align-items: center;}
 
 .copy {background-color: black;}
+
+.btn {transform: scale(1);
+gap: 1rem;}
+.btn:hover {transform: scale(1.3);}
