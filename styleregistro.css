@@ -30,6 +30,9 @@
     width: 100%;
     height: 100%;
 }
+.navbar > a {color: #F2F211;}
+
+.navbar > a:hover {zoom: 110%;}
 
 .formCont { width: 100%;
 overflow: hidden;
@@ -115,8 +118,15 @@ transition: .5s;}
     top: 0;
 }
 
+.log {display: flex;
+    align-items: center;
+font-size: 0.8rem;}
 
-a {color: #F2F211;}
+.log > a{
+    color: #F2F211;
+    padding: 0.5rem;}
+    
+.log > a:hover {color: white;}
 
 
 
