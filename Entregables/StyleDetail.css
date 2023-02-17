@@ -31,6 +31,18 @@
 }
 .navbar > a {color: #F2F211;}
 
+.registro { display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    }
+
+.registro > button > a {color: white;
+text-decoration: none;}
+
+.registro >button > a:hover {color: #F2F211;}
+
 .cuerpo { padding: 10px;
     background-color: #595959;}
 
