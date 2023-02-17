@@ -47,7 +47,7 @@ justify-content: center;
 align-items: center;
 border-radius: 10px;
 gap: 10px;
-padding: 20px 50px;
+padding:10px 100px;
 margin: auto;
 background-color: #262626;
 color: #F2F211;
@@ -57,7 +57,7 @@ color: #F2F211;
 border-radius: 10px;
 padding: 10px;
 gap: 10px;
-border-color: black;
+border:none;
 width: 100%;
 text-align: center;
 }
