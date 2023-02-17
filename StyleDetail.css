@@ -22,17 +22,14 @@
     
 .navbar {display: flex;
     justify-content: space-around;
-    list-style: none;
     flex-direction: column;
-    padding: 10px;
-}
-    
-.navbar > a {display: flex;
-    justify-content: space-around;
-    list-style: none;
+    align-items: center;
+    gap: 0.5rem;
     padding: 0.5rem;
-    text-decoration: underline;
-    color: #F2F211;}
+    width: 100%;
+    height: 100%;
+}
+.navbar > a {color: #F2F211;}
 
 .cuerpo { padding: 10px;
     background-color: #595959;}
@@ -56,14 +53,61 @@
 text-align: center;
 color: #F2F211;}
 
-button { padding: 0.5rem;
+.login {position: relative;
+    padding: 10px;
+    border: none;
+    outline: none;
+    background-color: #262626;
+    color: white;
+    cursor: pointer;
+    transition: .5s;
+    overflow: hidden;
     border-radius: 0.5rem;
-    border-color: #F2F211;
-    color: black;
-flex-direction: column;}
-    
-.bcarr{background-color: #F2F211;
-    color: black;}
+}
+
+.login:hover {color: #F2F211;}
+
+.login span {position: absolute;
+background: #F2F211;
+transition: .5s;}
+
+.login span:nth-child(1) {
+    width: 100%;
+    height: 1px;
+    top: 0;
+    left: -100%;
+}
+.login span:nth-child(2) {
+    width: 100%;
+    height: 1px;
+    bottom: 0;
+    right: -100%;
+}
+.login span:nth-child(3) {
+    width: 1px;
+    height: 100%;
+    bottom: -100%;
+    left: 0;
+}
+.login span:nth-child(4) {
+    width: 1px;
+    height: 100%;
+    top: -100%;
+    right: 0;
+}
+
+.login:hover span:nth-child(1) {
+    left: 0;
+}
+.login:hover span:nth-child(2) {
+    right: 0;
+}
+.login:hover span:nth-child(3) {
+    bottom: 0;
+}
+.login:hover span:nth-child(4) {
+    top: 0;
+}
 
 .footer {display: flex;
     align-items: center;
@@ -72,9 +116,10 @@ flex-direction: column;}
     color:#F2F211;
     text-decoration: underline;
     padding: 20px; }
-    
+
 .svg { display: flex;
-    align-items: center;}
+    align-items: center;
+padding: 10px;}
     
 .copy {background-color: black;
     color: #F2F211;}
