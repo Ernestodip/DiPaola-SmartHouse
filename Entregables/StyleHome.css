@@ -9,37 +9,65 @@
 .cabecera { display: flex;
     padding: 1rem;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color: black;
     color:#F2F211;
-    flex-direction: column;
+    flex-direction: row;
+    margin: 0;
 }
-.logo { display: flex;
-    justify-content: center;
-    align-items: center; 
-    width: 100%;
-    height: 100%;
-    padding: 0.5rem;}
+
+@media screen and (max-width: 768px) {
+    .cabecera{
+        flex-direction: column;
+        background-color: black;
+    }
+    .navbar {
+    flex-direction: column;}
+    
+}
 
 .navbar {display: flex;
-    justify-content: space-around;
-    flex-direction: column;
+    justify-content:center;
     align-items: center;
     gap: 0.5rem;
     padding: 0.5rem;
-    width: 100%;
-    height: 100%;
+    position: relative;
 }
-.navbar > a {color: #F2F211;}
+
+
+.link{text-decoration: none;
+color: #F2F211;
+position: relative;
+padding: 10px;}
+
+.link:after{
+    content: "";
+    width: 0;
+    height: 2px;
+    background-color: #F2F211;
+    position: absolute;
+    bottom: 0;
+    right: 50%;
+    transition: all .5s;
+    will-change: width;
+}
+.link:hover:after{
+    width: 100%;
+    right: 0;
+}
+
 
 .registro { display: flex;
-    padding: 10px;
-    gap: 10px;
-    }
+padding: 10px;
+gap: 10px;
+}
+
+
 .registro > button > a {color: white;
 text-decoration: none;}
 
 .registro >button > a:hover {color: #F2F211;}
+
 
 .cuerpo { background-color: #595959;}
 
@@ -60,8 +88,7 @@ font-size: 300%;}
 
 
 .section2 {padding: 1rem;
-color: #F2F211;
-flex-wrap: wrap;}
+color: #F2F211;}
 
 
 .art {width: 47.5%;
@@ -154,17 +181,45 @@ transition: .5s;}
     top: 0;
 }
 
-.footer {display: flex;
-align-items: center;
-flex-direction: column;
-background-color: black;
-color:#F2F211;
-text-decoration: underline;
-padding: 20px; }
+@media screen and (max-width: 768px) {
+    .section2{
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        background-color: #595959;
+    }
+    .a1 {flex-direction: column;}
+    .a2 {flex-direction: column;}
+    .a3 {flex-direction: column;}
+}
 
-.svg { display: flex;
-align-items: center;
-padding: 10px;}
 
-.copy {background-color: black;
+.foot {display: flex;
+    padding: 1rem;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color:#F2F211;
+    margin: 0;
+}
+
+.svg { zoom: 80%;
+    color: #F2F211;
+    text-align: center;
+    justify-content: center;}
+    
+.svg > h2 {font-size: 190%;
+text-decoration: underline;}
+
+.copy {
 color: #F2F211;}
+
+@media screen and (max-width: 768px) {
+    .foot{
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        background-color: black;
+    }
+    
+}
