@@ -20,7 +20,7 @@
 
 ## Logotipo 
 
-[![1f8c39d5-33d3-4095-8a0a-959215989a94-200x200.png](https://i.postimg.cc/zf6HGtJD/1f8c39d5-33d3-4095-8a0a-959215989a94-200x200.png)](https://postimg.cc/mc3gdSzK)
+[![1677023988128.png](https://i.postimg.cc/9Qk5TcCC/1677023988128.png)](https://postimg.cc/DS1M3kSM)
 
 ## Link Figma
 
